@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Yahiatori
-- 👀 I’m interested in cyber security
 - 🌱 I’m currently learning c lang java and c++
-- 📫 How to reach me <you cant >
-- 😄 Pronouns: there are two genders
-- ⚡ Fun fact: cats can mew but mews cant cat
+- 📫 How to reach me <yahiadjireb283@gmail.com>
 
 <!---
 Yahiatori/Yahiatori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
